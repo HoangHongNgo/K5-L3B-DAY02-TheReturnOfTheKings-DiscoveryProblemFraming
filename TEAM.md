@@ -4,18 +4,18 @@
 
 ## Thông tin nhóm
 
-- Tên nhóm:
-- Candidate problem nhóm chọn (1 câu):
-- Quyết định cuối (Go / Not Yet / No-Go):
+- Tên nhóm: The Return of the Kings
+- Candidate problem nhóm trưởng chọn: Nghiên cứu sinh khó lọc và đối chiếu các bài báo liên quan mà không mất nhiều thời gian hoặc bỏ sót bài quan trọng.
+- Quyết định hiện tại: Not Yet (đề xuất trong bản nháp; chờ nhóm kiểm chứng và chốt).
 
 ## Thành viên
 
 | STT | Họ và tên | MSSV | Vai trò trong nhóm | Tài khoản GitHub |
 |---:|---|---|---|---|
-| 1 | | | | |
-| 2 | | | | |
-| 3 | | | | |
-| 4 | | | | |
+| 1 | Ngô Hồng Hoàng | 2A202604093 | Nhóm trưởng; đề xuất chọn candidate #1 | HoangHongNgo |
+| 2 | Nguyễn Quang Thành | 2A202604085 | Chưa xác nhận | Chưa xác nhận |
+| 3 | Đào Đức Sơn | 2A202604105 | Chưa xác nhận | B1rdal |
+| 4 | Chưa xác nhận | | | |
 
 Không ghi email hay số điện thoại vào bảng này, vì repo có thể để public.
 
