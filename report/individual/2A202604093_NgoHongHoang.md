@@ -157,14 +157,33 @@ Tôi chưa cung cấp biên bản pitch/phản biện thật hoặc một bất 
 
 ## 6. Reflection (CP7)
 
-**Bản ghi để tự hoàn thiện từ những việc tôi đã cung cấp:**
+### 6.1. Tôi học được gì khi nghe top 3 problems của các bạn khác?
 
-- Tôi đã bắt đầu với giả thuyết rằng đọc và trích xuất từ bài báo là bước nghẽn. Sau khi hỏi hai lab coach, tôi thấy mình chưa thể lấy trải nghiệm của một người làm kết luận chung: coach A khó ở tìm kiếm, còn coach B khó ở đọc và lấy ý chính có thể dùng.
-- Điểm tôi cần sửa trong cách làm là đo từng bước trước khi chọn giải pháp. Mốc 90 phút/lượt và 1 giờ/ngày cho thấy công việc lặp lại, nhưng không thể cộng, so trực tiếp hoặc gọi đó là baseline bấm giờ.
-- Tôi đã dùng AI để tra cứu và thảo luận cách mô tả bài toán. Tôi cần tự kiểm nguồn, đối chiếu với lời người được hỏi và giữ quyền quyết định; câu trả lời của AI không thay cho phỏng vấn, pitch nhóm hay một phép thử thật.
-- Bước tiếp theo của tôi là lấy một ví dụ truy vấn/bài báo cụ thể từ mỗi coach, đo thời gian tìm và đọc/rút ý riêng, rồi kiểm bài bị sót và ý rút ra có đúng nguồn hay không. Tôi sẽ chỉ chọn mức can thiệp AI sau khi có kết quả đó.
+Qua việc xem các vấn đề của các thành viên, tôi nhận ra mỗi người có một góc nhìn khác nhau. Một vấn đề cần được đánh giá dựa trên ai gặp khó khăn, tần suất xảy ra và bằng chứng thực tế, chứ không chỉ dựa vào cảm nhận cá nhân.
 
-Phần trên chỉ dựa vào thông tin tôi đã cung cấp trong quá trình làm bài; tôi cần tự rà lại câu chữ và bổ sung trải nghiệm pitch/phản biện thật nếu buổi đó diễn ra. Không ghi phản biện của thành viên khác như một sự kiện đã xảy ra.
+### 6.2. Nhóm có lúc nào bị “solution-first” không? Nhóm nhận ra và xử lý thế nào?
+
+Trong quá trình xây dựng đề tài, nhóm có nguy cơ nghĩ ngay đến chatbot hoặc AI Agent để hỗ trợ nghiên cứu. Chúng tôi xử lý bằng cách mô tả quy trình tìm, chọn, đọc và rút ý; xác định bước nghẽn qua phỏng vấn; rồi ưu tiên kiểm tra phương án No AI và Rule trước khi cân nhắc AI Workflow hoặc Agent.
+
+### 6.3. Tôi có đổi ý sau khi bị phản biện không? Kể một lần cụ thể.
+
+Có. Khi trao đổi với AI về card của Đào Đức Sơn liên quan đến đồng bộ nhân vật giữa các Roblox place, tôi nhận ra bottleneck chưa chắc nằm ở cập nhật dữ liệu mà có thể ở khâu kiểm thử sau thay đổi. Tôi vì thế đổi cách phản biện: hỏi bước nào thực sự mất thời gian và kiểm tra một giải pháp đơn giản trước khi nghĩ đến AI. Với card bài báo của mình, tôi cũng bỏ giả định rằng đọc sâu là bottleneck chung sau khi hai lab coach nêu hai bước khó khác nhau.
+
+### 6.4. Kết quả kiểm chứng có làm tôi bất ngờ không? Điều gì?
+
+Tôi bất ngờ khi hai lab coach cùng khảo sát tài liệu thường xuyên nhưng gặp khó khăn ở hai bước khác nhau. Coach A khó ở tìm kiếm, còn coach B khó ở đọc và rút ý chính có thể dùng. Điều này cho thấy tôi không nên giả định mọi người có cùng một bottleneck.
+
+### 6.5. Điều khó nhất khi viết Problem Statement là gì?
+
+Khó nhất là xác định chính xác bottleneck và đặt metric đo được cho từng nhánh. Giảm thời gian chưa đủ: với tìm kiếm còn phải kiểm bài quan trọng bị bỏ sót, còn với rút ý phải kiểm ý có đúng nguồn và dùng được không. Tôi cũng cần giữ phần mô tả vấn đề tách khỏi ý tưởng giải pháp.
+
+### 6.6. Nếu làm lại, tôi sẽ đổi gì? Tôi sẽ phản biện nhóm mạnh hơn ở điểm nào?
+
+Tôi sẽ thu thập ví dụ cụ thể và bấm giờ từng bước sớm hơn. Khi phản biện nhóm, tôi sẽ hỏi bước nào thật sự nghẽn, bằng chứng nào chứng minh điều đó, chất lượng đầu ra sẽ được kiểm ra sao và liệu một quy trình đơn giản không dùng AI đã đủ hay chưa.
+
+### 6.7. Hiểu bài: problem → quy trình → metric → boundary → mức can thiệp AI → quyết định
+
+Problem của nhóm là người nghiên cứu gặp khó khăn khi tìm đủ bài báo liên quan và rút ý chính có thể dùng cho câu hỏi nghiên cứu. Quy trình hiện tại gồm xác định hướng nghiên cứu, tìm bài, chọn bài, đọc và rút ý. Hai phỏng vấn chưa chỉ ra một bottleneck chung: coach A khó ở tìm kiếm, còn coach B khó ở đọc và rút ý. Nhóm sẽ đo thời gian từng nhánh và kiểm chất lượng bằng số bài quan trọng bị bỏ sót hoặc độ đúng, khả năng dùng của ý rút ra; mục tiêu thử nghiệm là giảm ít nhất 25% thời gian mỗi nhánh so với baseline bấm giờ. Boundary là người nghiên cứu phải kiểm bài gốc và quyết định cuối cùng về bài được chọn cũng như ý được sử dụng. Nhóm ưu tiên thử No AI và Rule, chỉ cân nhắc AI Workflow khi cách đơn giản không đạt và có phép kiểm phù hợp. Vì chưa có baseline và kết quả pilot, quyết định hiện tại là **Not Yet**.
 
 ## 7. Tài liệu tham khảo
 
