@@ -8,7 +8,7 @@
 - Tên nhóm: The Return of the Kings
 - Link repo nhóm: https://github.com/HoangHongNgo/K5-L3B-DAY02-TheReturnOfTheKings-DiscoveryProblemFraming
 
-> **Phạm vi bằng chứng:** Sáu vấn đề trong CP1 đều là ý tưởng tôi tự nêu để nhóm cân nhắc. Với #2–6, bằng chứng hiện có đến từ nguồn công khai, **chưa phải kết quả quan sát cá nhân hoặc phỏng vấn của tôi**. Các số liệu dưới đây mô tả đúng quần thể và thời điểm của từng nguồn, không phải baseline của nhóm. Số phút trong CP2 là **giả định để lập quy trình nháp**, cần đo với người thật trước khi quyết định.
+> **Phạm vi bằng chứng:** Tôi trực tiếp nêu vấn đề đọc bài báo khoa học và yêu cầu AI tìm thêm các problem có nhiều người gặp hoặc cấp thiết. Tôi chọn các candidate để nhóm cân nhắc. Với #2–6, bằng chứng hiện có đến từ nguồn công khai, **chưa phải kết quả quan sát cá nhân hoặc phỏng vấn của tôi**. Các số liệu dưới đây mô tả đúng quần thể và thời điểm của từng nguồn, không phải baseline của nhóm. Số phút trong CP2 là **giả định để lập quy trình nháp**, cần đo với người thật trước khi quyết định.
 
 ---
 
@@ -23,7 +23,7 @@
 | 5 | Pain từ người khác; cấp thiết | Khi trường phải nghỉ vì lũ, bão hoặc nắng nóng, học sinh và giáo viên muốn biết kế hoạch học bù đáng tin cậy, để không mất tiến độ học. | Học sinh, giáo viên, phụ huynh | **Candidate từ báo cáo.** UNICEF ước tính ít nhất **171 triệu** học sinh bị gián đoạn học do biến cố khí hậu trong năm 2025 [6]. Chưa biết một trường cụ thể đang phối hợp thông báo ra sao. |
 | 6 | Pain từ người khác; cấp thiết | Khi được kê nhiều thuốc hoặc đổi liều, bệnh nhân muốn đối chiếu hướng dẫn dùng thuốc và chỗ chưa rõ với nhân viên y tế, để tránh dùng sai. | Bệnh nhân, người chăm sóc, nhân viên y tế | **Candidate y tế, chưa phỏng vấn.** WHO nêu khoảng **5%** bệnh nhân trên toàn cầu gặp tổn hại liên quan thuốc có thể phòng tránh [7]. Không suy ra vấn đề chủ yếu là bệnh nhân đọc sai hướng dẫn; cần xác minh nguyên nhân tại bối cảnh cụ thể. |
 
-**AI hỗ trợ tra cứu và thảo luận:** Tôi tự nêu sáu candidate. AI giúp tìm các nguồn FTC, UNESCO, WHO và UNICEF để đối chiếu số liệu, rồi cùng tôi thảo luận actor, tình huống và cách đo. Tôi giữ Job Story ở dạng vấn đề thay vì biến thành ý tưởng “xây chatbot”, và tránh nhận định quá rộng như “mọi người đều bị quá tải thông tin”.
+**AI đã hỗ trợ:** Sau ý #1 của tôi, AI gợi ý thêm #2–6 theo yêu cầu của tôi và tìm nguồn FTC, UNESCO, WHO, UNICEF để đối chiếu số liệu. Tôi cùng AI thảo luận actor, tình huống, cách đo; tôi chọn các candidate đưa vào báo cáo và giữ Job Story ở dạng vấn đề thay vì giải pháp.
 
 **Khoảng trống CP1:** Với #2–6, bằng chứng hiện mới là **nghiên cứu thứ cấp**. Trước khi dùng làm bằng chứng cá nhân, cần hỏi về một sự kiện đã xảy ra, ai thực hiện bước nào, mất bao lâu, gặp mấy lần; không hỏi “bạn có muốn dùng ứng dụng này không?”.
 
@@ -136,8 +136,8 @@ Chưa có hoạt động nhóm được cung cấp. Phần này cần ghi sau kh
 
 | Checkpoint | Tôi dùng AI để làm gì? | AI hữu ích ở đâu? | AI sai hoặc hời hợt ở đâu? | Tôi sửa gì bằng nhận định của mình? |
 |---|---|---|---|---|
-| CP1 Scan | Tra cứu nguồn cho sáu vấn đề tôi tự nêu; thảo luận cách viết Job Story và dấu hiệu cần đo. | Tìm số liệu có nguồn từ FTC, UNESCO, WHO, UNICEF và giúp làm rõ phạm vi từng vấn đề. | Số liệu quốc tế không tự chứng minh pain của tôi hoặc nhóm tại Việt Nam. | Ghi rõ quần thể, năm, giới hạn nguồn; đánh dấu các dấu hiệu chưa được kiểm chứng bằng quan sát hay phỏng vấn. |
-| CP2 Problem Card | Thảo luận và phản biện ba card tôi chọn, tập trung vào bottleneck, metric và rủi ro. | Giúp tôi nhận ra chỉ đo tốc độ là chưa đủ và không nên giao quyết định an toàn cho AI. | Các số phút trong quy trình chỉ là ước lượng, chưa có baseline quan sát. | Gắn nhãn giả định, bổ sung cách đo thực tế, phương án không AI và tiêu chí chất lượng. |
+| CP1 Scan | Gợi ý thêm candidate theo yêu cầu của tôi, tra cứu nguồn và thảo luận cách viết Job Story. | Tìm số liệu từ FTC, UNESCO, WHO, UNICEF và giúp làm rõ phạm vi từng vấn đề. | Số liệu quốc tế không tự chứng minh pain của tôi hoặc nhóm tại Việt Nam. | Tôi chọn candidate đưa vào báo cáo, ghi rõ quần thể/năm/giới hạn nguồn và đánh dấu phần chưa được quan sát hay phỏng vấn. |
+| CP2 Problem Card | Thảo luận và phản biện ba card tôi chọn, tập trung vào bottleneck, metric và rủi ro. | Giúp làm rõ rằng chỉ đo tốc độ là chưa đủ và không nên giao quyết định an toàn cho AI. | Các số phút trong quy trình chỉ là ước lượng, chưa có baseline quan sát. | Tôi giữ nhãn giả định, cách đo thực tế, phương án không AI và tiêu chí chất lượng để nhóm kiểm chứng. |
 | CP4 Research | Chưa làm | — | — | — |
 | CP5 Quy trình | Chưa làm | — | — | — |
 | CP5–6 Problem Statement | Chưa làm | — | — | — |
