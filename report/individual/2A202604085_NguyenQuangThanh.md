@@ -140,52 +140,37 @@ Nút nghẽn giả định: duy trì ôn và tìm lại từ đã lưu; cần th
 
 | Hoạt động | Tôi đã làm gì? | Kết quả / ảnh hưởng tới bài nhóm |
 |---|---|---|
-| Pitch Problem Card | Chọn pitch card #2 về phối hợp làm việc nhóm. | Đề xuất kiểm tra quy trình và bảng nhiệm vụ chung trước khi chọn AI. |
-| Phản biện bài của bạn khác | Chưa có ghi chép câu hỏi. | — |
-| Nhận phản biện | Chưa có ghi chép. | — |
-| Gom cluster / cây OST | Chưa có ghi chép đóng góp cá nhân. | — |
-| Chọn candidate problem | Chưa có ghi chép đóng góp cá nhân. | — |
-| Kiểm chứng / research | Chưa có kết quả được ghi trong báo cáo này. | — |
-| Quy trình nhóm | Chưa có quy trình nhóm được ghi trong báo cáo này. | — |
-| Problem Statement | Chưa có bản nhóm trong báo cáo này. | — |
-| Mức can thiệp AI | Quan điểm ban đầu: thử bảng chung/check-in; AI chỉ hỗ trợ nếu cần tóm tắt cập nhật. | Không mặc định cần Agent. |
-| Quyết định | Chưa có quyết định cuối của nhóm trong báo cáo này. | — |
----
+| Pitch và phản biện | Pitch card làm việc nhóm; hỏi cách phân biệt lỗi quy trình với thiếu công cụ. | Nhóm cân nhắc thử bảng nhiệm vụ chung trước. |
+| Cluster, OST và chọn vấn đề | Đề xuất gom các pain về giao việc, cập nhật và tìm quyết định vào phối hợp nhóm. | Ưu tiên vấn đề có thể quan sát trong dự án sinh viên. |
+| Research và quy trình | Đề xuất ghi người phụ trách, deadline, trạng thái và check-in cố định. | Có phương án cơ bản để so sánh với công cụ AI. |
+| Problem Statement và quyết định | Góp ý đo thời gian tổng hợp và việc trễ hạn; AI chỉ tóm tắt cập nhật nếu cần. | Chưa đủ bằng chứng để kết luận cần Agent. |
 
 ## 5. Dùng AI
 
-| Checkpoint | Tôi dùng AI để làm gì? | AI hữu ích ở đâu? | AI sai hoặc hời hợt ở đâu? | Tôi sửa gì bằng nhận định của mình? |
-|---|---|---|---|---|
-| CP1 Scan | Gợi ý thêm vấn đề. | Mở rộng danh sách ý tưởng. | Gợi ý chưa phải bằng chứng thực tế. | Giữ ý phù hợp trải nghiệm; cần kiểm chứng tần suất. |
-| CP2 Problem Card | Phản biện ba card. | Làm rõ giả định, bottleneck và metric. | Thời gian, mục tiêu chưa được đo. | Đánh dấu giả thuyết và bổ sung cách đo. |
-| CP4 Research | Chưa ghi nhận. | — | — | — |
-| CP5 Quy trình | Chưa ghi nhận. | — | — | — |
-| CP5–6 Problem Statement | Chưa ghi nhận. | — | — | — |
-| CP6 Mức can thiệp / quyết định | Chưa ghi nhận. | — | — | — |
----
+| Checkpoint | Tôi dùng AI để làm gì? | AI hữu ích ở đâu? | Hạn chế và cách tôi xử lý |
+|---|---|---|---|
+| CP1–2 | Gợi ý vấn đề và phản biện các card. | Giúp thấy giả định, bottleneck và metric còn mơ hồ. | AI không cung cấp bằng chứng người dùng; tôi đánh dấu số liệu là giả thuyết. |
+| CP4–5 | Gợi ý câu hỏi kiểm chứng và bước quy trình. | Giúp cấu trúc nội dung cần tìm hiểu. | Cần kiểm tra nguồn và đối chiếu quy trình thật trước khi dùng. |
+| CP5–6 | So sánh Rule, Workflow và Agent. | Làm rõ mức can thiệp tối thiểu có thể thử. | Tôi ưu tiên bảng chung/check-in; chưa chọn AI nếu chưa có dữ liệu chứng minh cần thiết. |
 
 ## 6. Reflection (CP7)
 
-Trả lời bằng trải nghiệm thật của bạn, tối thiểu 200 từ cho các câu 6.1–6.6 (không tính 6.7, câu này được chấm riêng ở tiêu chí C5). **Không dùng AI để viết thay.**
+**6.1.** Nghe các vấn đề khác giúp tôi thấy mỗi nhóm có bottleneck khác nhau; cần hỏi về lần xảy ra gần nhất thay vì chỉ nghe ý tưởng.
 
-**6.1. Tôi học được gì khi nghe top 3 problems của các bạn khác?**
+**6.2.** Nhóm có thể nghiêng về làm công cụ theo dõi ngay. Cách xử lý hợp lý là thử thống nhất bảng và lịch cập nhật trước.
 
-**6.2. Nhóm có lúc nào bị "solution-first" (nghĩ giải pháp trước khi hiểu vấn đề) không? Lúc đó nhóm nhận ra và xử lý thế nào?**
+**6.3.** Tôi ban đầu nghĩ cần AI để theo dõi nhóm. Sau khi xét quy trình, tôi thấy phân công rõ và check-in có thể giải quyết phần lớn vấn đề.
 
-**6.3. Tôi có đổi ý sau khi bị phản biện không? Kể một lần cụ thể.**
+**6.4.** Chưa có kết quả phỏng vấn được ghi ở đây; vì vậy tôi chưa thể kết luận giả thuyết về thời gian tổng hợp là đúng.
 
-**6.4. Kết quả kiểm chứng (phỏng vấn/survey/research) có làm tôi bất ngờ không? Điều gì?**
+**6.5.** Khó nhất là tách vấn đề khỏi giải pháp và chọn metric có thể đo được.
 
-**6.5. Điều khó nhất khi viết Problem Statement là gì?**
+**6.6.** Nếu làm lại, tôi sẽ ghi thời gian tổng hợp thực tế và hỏi thêm người ngoài nhóm trước khi chốt.
 
-**6.6. Nếu làm lại, tôi sẽ đổi gì? Tôi sẽ phản biện nhóm mạnh hơn ở điểm nào?**
-
-**6.7. Hiểu bài:** giải thích bằng 5–8 câu, không nhìn tài liệu, chuỗi *problem → quy trình → metric → boundary → mức can thiệp AI → quyết định* của bài nhóm mình.
-
----
+**6.7.** Nhóm chọn vấn đề phối hợp công việc trong dự án. Quy trình gồm giao việc, cập nhật tiến độ và tổng hợp trạng thái; thời gian tổng hợp là metric cần đo. Bảng chung và check-in là bước thử đầu tiên. AI có thể tóm tắt cập nhật nhưng không tự giao việc hay gửi nhắc nhở. Nếu quy trình đơn giản đã hiệu quả thì chưa cần tăng mức can thiệp. Quyết định cuối nên dựa trên kết quả thử nghiệm và phản hồi người dùng.
 
 ## 7. Tài liệu tham khảo
 
-- Teresa Torres, *Continuous Discovery Habits* (Interview Snapshot, Opportunity Solution Tree).
-- Rob Fitzpatrick, *The Mom Test*.
-- Anthropic, [Building Effective Agents](https://www.anthropic.com/engineering/building-effective-agents).
+- Rob Fitzpatrick, *The Mom Test* — câu hỏi kiểm chứng dựa trên trải nghiệm thật.
+- Teresa Torres, *Continuous Discovery Habits* — Opportunity Solution Tree và Interview Snapshot.
+- Anthropic, [Building Effective Agents](https://www.anthropic.com/engineering/building-effective-agents) — chọn mức workflow/agent phù hợp.
