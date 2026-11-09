@@ -140,30 +140,28 @@ Nút nghẽn giả định: duy trì ôn và tìm lại từ đã lưu; cần th
 
 | Hoạt động | Tôi đã làm gì? | Kết quả / ảnh hưởng tới bài nhóm |
 |---|---|---|
-| Pitch Problem Card | | |
-| Phản biện bài của bạn khác | Câu hỏi tôi đã đặt: | |
-| Nhận phản biện | Câu hỏi tôi nhận được: | Tôi đã sửa gì: |
-| Gom cluster / cây OST | | |
-| Chọn candidate problem | | |
-| Kiểm chứng / research | | |
-| Quy trình nhóm | | |
-| Problem Statement | | |
-| Mức can thiệp AI | | |
-| Quyết định | | |
-
+| Pitch Problem Card | Chọn pitch card #2 về phối hợp làm việc nhóm. | Đề xuất kiểm tra quy trình và bảng nhiệm vụ chung trước khi chọn AI. |
+| Phản biện bài của bạn khác | Chưa có ghi chép câu hỏi. | — |
+| Nhận phản biện | Chưa có ghi chép. | — |
+| Gom cluster / cây OST | Chưa có ghi chép đóng góp cá nhân. | — |
+| Chọn candidate problem | Chưa có ghi chép đóng góp cá nhân. | — |
+| Kiểm chứng / research | Chưa có kết quả được ghi trong báo cáo này. | — |
+| Quy trình nhóm | Chưa có quy trình nhóm được ghi trong báo cáo này. | — |
+| Problem Statement | Chưa có bản nhóm trong báo cáo này. | — |
+| Mức can thiệp AI | Quan điểm ban đầu: thử bảng chung/check-in; AI chỉ hỗ trợ nếu cần tóm tắt cập nhật. | Không mặc định cần Agent. |
+| Quyết định | Chưa có quyết định cuối của nhóm trong báo cáo này. | — |
 ---
 
 ## 5. Dùng AI
 
 | Checkpoint | Tôi dùng AI để làm gì? | AI hữu ích ở đâu? | AI sai hoặc hời hợt ở đâu? | Tôi sửa gì bằng nhận định của mình? |
 |---|---|---|---|---|
-| CP1 Scan | | | | |
-| CP2 Problem Card | | | | |
-| CP4 Research | | | | |
-| CP5 Quy trình | | | | |
-| CP5–6 Problem Statement | | | | |
-| CP6 Mức can thiệp / quyết định | | | | |
-
+| CP1 Scan | Gợi ý thêm vấn đề. | Mở rộng danh sách ý tưởng. | Gợi ý chưa phải bằng chứng thực tế. | Giữ ý phù hợp trải nghiệm; cần kiểm chứng tần suất. |
+| CP2 Problem Card | Phản biện ba card. | Làm rõ giả định, bottleneck và metric. | Thời gian, mục tiêu chưa được đo. | Đánh dấu giả thuyết và bổ sung cách đo. |
+| CP4 Research | Chưa ghi nhận. | — | — | — |
+| CP5 Quy trình | Chưa ghi nhận. | — | — | — |
+| CP5–6 Problem Statement | Chưa ghi nhận. | — | — | — |
+| CP6 Mức can thiệp / quyết định | Chưa ghi nhận. | — | — | — |
 ---
 
 ## 6. Reflection (CP7)
@@ -188,4 +186,6 @@ Trả lời bằng trải nghiệm thật của bạn, tối thiểu 200 từ ch
 
 ## 7. Tài liệu tham khảo
 
--
+- Teresa Torres, *Continuous Discovery Habits* (Interview Snapshot, Opportunity Solution Tree).
+- Rob Fitzpatrick, *The Mom Test*.
+- Anthropic, [Building Effective Agents](https://www.anthropic.com/engineering/building-effective-agents).
