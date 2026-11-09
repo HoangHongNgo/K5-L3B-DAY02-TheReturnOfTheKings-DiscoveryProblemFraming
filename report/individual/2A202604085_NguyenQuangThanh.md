@@ -10,7 +10,7 @@
 - MSSV: 2A202604085
 - Email trường (không bắt buộc, repo có thể để public): 26ai.thanhnq@vinuni.edu.vn
 - Tên nhóm: The return of The kings
-- Link repo nhóm: 
+- Link repo nhóm: https://github.com/HoangHongNgo/K5-L3B-DAY02-TheReturnOfTheKings-DiscoveryProblemFraming
 
 ---
 
